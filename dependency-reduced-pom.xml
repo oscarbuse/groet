@@ -6,6 +6,11 @@
   <name>groet</name>
   <version>1.0-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
+  <scm>
+    <connection>scm:git:https://github.com/oscarbuse/groet.git</connection>
+    <developerConnection>scm:git:https://github.com/oscarbuse/groet.git</developerConnection>
+    <url>https://github.com/oscarbuse/groet.git</url>
+  </scm>
   <build>
     <plugins>
       <plugin>
