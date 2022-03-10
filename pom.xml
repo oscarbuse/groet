@@ -4,7 +4,7 @@
   <groupId>org.lugn.groet</groupId>
   <artifactId>groet</artifactId>
   <packaging>jar</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <name>groet</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -23,6 +23,7 @@
   <connection>scm:git:https://github.com/oscarbuse/groet.git</connection>
   <url>https://github.com/oscarbuse/groet.git</url>
   <developerConnection>scm:git:https://github.com/oscarbuse/groet.git</developerConnection>
+  <tag>v1.1</tag>
 </scm>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
